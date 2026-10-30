@@ -1,0 +1,7 @@
+cd telegram_data_scraper
+git init
+git add .
+git commit -m "Initial commit: Telegram phone lookup userbot"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/telegram_data_scraper.git
+git push -u origin main
