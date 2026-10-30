@@ -25,7 +25,7 @@ A high-performance **Telegram Userbot** built with Python and **Telethon**. It q
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/telegram_data_scraper.git
+   git clone https://github.com/SSB-projects/telegram_data_scraper.git
    cd telegram_data_scraper
    ```
 
