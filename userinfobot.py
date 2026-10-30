@@ -3,7 +3,7 @@ from telethon import TelegramClient, events
 from telethon.tl.functions.contacts import ResolvePhoneRequest
 from telethon.tl.functions.users import GetFullUserRequest
 
-API_ID = 0  # Replace with your integer API ID, e.g. 1234567
+API_ID = 1234567  # Replace with your integer API ID, e.g. 1234567
 API_HASH = "your_api_hash_here"  # Replace with your API hash string
 
 client = TelegramClient("lookup_session", API_ID, API_HASH)
